@@ -115,3 +115,8 @@ MIT License. See LICENSE file for details.
 Disclaimer
 
 This tool is intended for entertainment and educational purposes. Personality profiles are generated algorithmically and should not be taken as serious psychological assessments.
+
+
+
+
+> **Your Dreams Matter**
