@@ -1,6 +1,6 @@
 # Commitment Issues
 
-
+![](https://raw.githubusercontent.com/iciiwhite/commitment-issues/refs/heads/main/20260411_040850.png)
 
 A command-line tool that audits a Git repository's commit history and assigns a humorous personality type to the project's maintainer. It analyzes commit frequency, message styles, and timestamps to generate a profile.
 
