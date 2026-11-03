@@ -14,7 +14,7 @@ A command-line tool that audits a Git repository's commit history and assigns a 
 ### Build from source
 
 ```bash
-git clone https://github.com/olia-software/commitment-issues.git
+git clone https://github.com/iciiwhite/commitment-issues.git
 cd commitment-issues
 go mod tidy
 go build -o commitment-issues
